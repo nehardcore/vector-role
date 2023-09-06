@@ -3,6 +3,19 @@ Vector
 
 This role installs Vector on EL
 
+Parameters
+-----------
+
+vector_config_dir: Set the directory where Vector's configuration will be stored.
+
+Process
+-------
+
+Getting vector distributive
+Preparing the configuration
+Configuring vector using template
+Configuring vector service
+
 Example Playbook
 ----------------
 
